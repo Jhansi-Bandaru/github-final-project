@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <Jhansi-Bandaru>
+   # <Bandaru Jhansi rani>
 
    # Input:
    # p, principal amount
